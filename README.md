@@ -1,6 +1,8 @@
+Fork of: https://github.com/Automattic/action-commit-to-branch
+Built for use alongside: https://github.com/marketplace/actions/latex-compilation
 # Commit and push to remote branch
 
-This action will commit and push to a specific remote branch. 
+This action will commit and push to a specific remote branch. This is achieved by remaking the branch each time, un-merged changes will be lost!
 
 ## Inputs
 
